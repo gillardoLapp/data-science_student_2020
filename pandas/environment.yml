@@ -1,0 +1,9 @@
+name: datasciencem1panda
+dependencies:
+ - python=3.6
+ - numpy
+ - scikit-image 
+ - scipy
+ - matplotlib
+ - jupyter
+ - pandas
