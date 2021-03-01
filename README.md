@@ -9,9 +9,19 @@ contact us at firstname.name[at]lapp.in2p3.fr
 
 ## Courses content:
 
+### Course 0: Python and environment setup
+These are reminders of prerequisite for this course
+
+- env. setup: [conda](https://www.anaconda.com/products/individual), Python and Jupyter
+- Python:
+https://swcarpentry.github.io/python-novice-inflammation/
+    - https://swcarpentry.github.io/python-novice-inflammation/01-intro/index.html
+    - https://swcarpentry.github.io/python-novice-inflammation/04-loop/index.html
+    - https://swcarpentry.github.io/python-novice-inflammation/05-lists/index.html
+    - https://swcarpentry.github.io/python-novice-inflammation/08-func/index.html
+
 ### Course 1
 
-- Setting up an environment
 - [Introduction to data science](M1_DataScience_intro1.pptx)
 - [Introduction to Numpy](numpy)
 
