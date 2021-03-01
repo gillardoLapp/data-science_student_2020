@@ -20,6 +20,8 @@ https://swcarpentry.github.io/python-novice-inflammation/
     - https://swcarpentry.github.io/python-novice-inflammation/05-lists/index.html
     - https://swcarpentry.github.io/python-novice-inflammation/08-func/index.html
 
+- git
+
 ### Course 1
 
 - [Introduction to data science](M1_DataScience_intro1.pptx)
